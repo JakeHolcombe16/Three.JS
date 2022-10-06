@@ -1,0 +1,1 @@
+open the dist folder in vscode and run the live server to get the textures to load
